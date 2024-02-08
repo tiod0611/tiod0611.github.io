@@ -2,7 +2,7 @@
 layout: post
 title: "블로그 이사 후 첫 게시물"
 date: 2024-02-08
-categories: sample
+categories: 주저리주저리
 ---
 # 이 포스트는 github page 테스트용 페이지입니다.
 
